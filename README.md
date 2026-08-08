@@ -8,7 +8,7 @@ Bring your **thumb and index finger together or apart** and watch the flower res
 
 ## 🎥 Demo
 
-**[▶️ Watch the AI Flower Bloom Demo](./AI%20Flower%20Bloom%20demo.mp4)**
+**[▶️ Watch the AI Flower Bloom Demo](./demo.mp4)**
 
 ## ✨ Features
 
